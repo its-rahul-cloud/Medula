@@ -1,6 +1,6 @@
 import openai as ai
 
-ai.api_key = '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'
+ai.api_key = ''
 
 def generate_gpt3_response(user_text, print_output=False):
     """
